@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VibinLub
 - 👀 I’m interested in HTML, Ninjago, Naruto, Questal
-- 🌱 I’m currently learning Still HTML
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Nothing rn
 - 📫 How to reach me Discord: .Lub_
 - ⚡ Fun fact: I am a ninja
