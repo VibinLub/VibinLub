@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🔧 Developer & Designer from the Netherlands  
-- 🎮 Working on **Discord Bots**, **Minecraft Servers**, and cool **Websites**  
+- 🎮 Working on **Discord Bots**, **Minecraft Servers**, and cool **Websites**, but also many **designs**, and **drawings**  
 - 💻 Passionate about clean code & sleek design  
 - 🌐 Check out my portfolio: [lubbertschenk.nl](https://lubbertschenk.nl)
 
